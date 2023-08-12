@@ -1,15 +1,15 @@
 ---
-title: Setting up Google Site Verification
+title: Setting up Google Site Verification # CHANGE
 author: Sound of Dialup
-pubDatetime: 2023-08-12T20:10:34.188Z
-postSlug: set-up-google-site-verification
+pubDatetime: 2023-08-12T17:10:34.188Z # CHANGE THE TIME
+postSlug: set-up-google-site-verification # CHANGE
 featured: false
 draft: false
 tags:
-  - webdev
+  - webdev # CHANGE
   - google
   - SEO
-description: How to set up Google Site Verification.
+description: How to set up Google Site Verification. # CHANGE
 ---
 
 Today I had to figure out how to set up Google Site Verification. According to ChatGPT (... heh), one of the benefits of GSV is receiving alerts if there are crawl errors, mobile usability problems, or security issues. I also wouldn't be surprised if it upped your ranking in Google searches, too, so figured it's worth knowing.
