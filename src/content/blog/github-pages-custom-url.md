@@ -1,7 +1,7 @@
 ---
 title: Use a Custom URL on GitHub Pages
 author: Sound of Dialup
-pubDatetime: 2023-08-11T01:03:34.188Z
+pubDatetime: 2023-08-08T10:03:34.188Z
 postSlug: github-pages-custom-url
 featured: false
 draft: false

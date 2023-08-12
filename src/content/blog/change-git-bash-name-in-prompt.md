@@ -1,7 +1,7 @@
 ---
 title: Remove user@computer from Git Bash prompt
 author: Sound of Dialup
-pubDatetime: 2023-08-11T01:21:15.188Z
+pubDatetime: 2023-08-05T09:21:15.188Z
 postSlug: change-git-bash-name-in-prompt
 featured: false
 draft: false

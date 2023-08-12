@@ -1,7 +1,7 @@
 ---
 title: GitHub Pages
 author: Sound of Dialup
-pubDatetime: 2023-08-12T03:39:34.188Z
+pubDatetime: 2023-08-07T14:39:34.188Z
 postSlug: github-pages
 featured: false
 draft: false
@@ -9,10 +9,10 @@ tags:
   - github
   - github pages
   - web hosting
-description: Host your own website for free on GitHub.
+description: How to host your own website for free on GitHub.
 ---
 
-Host your own website for free on GitHub.
+Today I learnt how to host my own website for free on GitHub Pages. It was a bit fiddly at times, but I've broken down the process into as few steps as possible.
 
 ## Table of contents
 
