@@ -1,5 +1,5 @@
 ---
-title: What are relative paths?
+title: What are relative paths
 author: Sound of Dialup
 pubDatetime: 2023-08-12T23:10:34.188Z
 postSlug: relative-paths
