@@ -27,7 +27,7 @@ Today I learnt how to make markdown images more accessible with alt text and a t
 I want to add a screenshot of my project's directory structure. The markdown file and image are in different folders (i.e. the image is in `instructions/assets/` and the markdown file is in `instructions/markdown/`).
 
 ```md
-![VSCode project tree](../assets/vscode-project-tree.jpg "VSCode project tree")
+![Screenshot of a project tree in VSCode, showing a parent folder, 'instructions', and two child folders, 'assets' and 'markdown'](../assets/vscode-project-tree.jpg "VSCode project tree")
 ```
 
 **Result:**
