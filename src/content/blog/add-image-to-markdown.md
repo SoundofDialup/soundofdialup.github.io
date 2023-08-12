@@ -40,4 +40,4 @@ I want to add a screenshot of my project's directory structure. The markdown fil
 
 "**[Visual Studio Code (VSCode)](https://code.visualstudio.com/learn)** is a free coding editor that helps you start coding quickly. Use it to code in any programming language, without switching editors." (_Microsoft_, 2023)
 
-`../` is a relative path reference. Here's my **[guide](/posts/relative-paths.md)** on those.
+`../` is a relative path reference. Here's my **[guide](/posts/relative-paths)** on those.
